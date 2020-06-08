@@ -1,0 +1,2 @@
+module DesignPatternsEstruturaiseComportamentais {
+}
